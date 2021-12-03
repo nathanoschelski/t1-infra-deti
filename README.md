@@ -2,7 +2,7 @@
 
 ## Aplicação
 
-Aplicação simples com uma imagem ubuntu que retorna um html com a mensagem ˜Hello World˜.
+Aplicação simples com uma imagem ubuntu que acessa um html com a mensagem ˜Hello World˜.
 
 ## Dockerfile
 
